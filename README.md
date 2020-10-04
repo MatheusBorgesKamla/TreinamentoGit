@@ -8,4 +8,8 @@ Esse repositório tem como intuito salvar alguns comandos aprendidos ao longo do
 
 - Para submeter as modificações realizadas no Working Directory para o INDEX, utiliza-se o comando:
 
-`git add`
+`git add file`
+
+- Para submeter as alterações do INDEX para o HEAD, utiliza-se o comando:
+
+`git commit`
