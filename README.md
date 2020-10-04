@@ -21,3 +21,7 @@ Esse repositório tem como intuito salvar alguns comandos aprendidos ao longo do
 - Para atualizar seu repositório local com as modificações feitas no remoto, utilize o comando:
 
 `git pull`
+
+- Para visualizar o fluxo de alterações e o branch atual, utiliza-se comando:
+
+`git status`
