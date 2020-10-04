@@ -21,3 +21,8 @@ Esse repositório tem como intuito salvar alguns comandos aprendidos ao longo do
 - Para visulaizar o histório de commits, utiliza-se o comando:
 
 `git log`
+
+- Para atualizar seu repositório local com as modificações feitas no remoto, utilize o comando:
+
+`git pull`
+
