@@ -13,3 +13,7 @@ Esse repositório tem como intuito salvar alguns comandos aprendidos ao longo do
 - Para submeter as alterações do INDEX para o HEAD, utiliza-se o comando:
 
 `git commit`
+
+- Para submeter as alterações do repositório local para o remoto, utiliza-se o comando:
+
+`git push`
